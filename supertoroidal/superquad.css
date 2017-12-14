@@ -1,0 +1,10 @@
+text{
+    color: white;
+    z-index: 1;
+}
+body{
+    background: url("space.png") center top no-repeat;
+    postion:absolute;
+    z-index: -1;
+
+}
